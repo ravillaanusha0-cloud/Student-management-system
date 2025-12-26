@@ -22,3 +22,5 @@ Learning Outcomes:
 - Python dictionaries
 - Functions
 - File handling
+## Output:
+  ![Program Output](sceenshots/output.png)
